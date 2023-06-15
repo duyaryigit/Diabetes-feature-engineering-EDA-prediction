@@ -27,11 +27,11 @@ pd.set_option('display.float_format', lambda x: '%.3f' % x)
 ############## DATASET HISTORY ##############################################
 
 # Pregnancies: Number of times pregnant
-# Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test (70-105 referans aralığı)
+# Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
 # BloodPressure: Diastolic blood pressure (mm Hg)
 # SkinThickness: Triceps skin fold thickness (mm)
-# Insulin: 2-Hour serum insulin (mu U/ml) hormon- Glikozu hücre içine alır, yetersizse glikozu hücre içine alamaz kandaki şeker artar(2.6-24.9 referans aralığı)
-# BMI: Body mass index (weight in kg/(height in m)2) glikoz hücreye giremediği için hiperglisemi obeziteye yol açıyor
+# Insulin: 2-Hour serum insulin (mu U/ml) hormon
+# BMI: Body mass index (weight in kg/(height in m)2)
 # DiabetesPedigreeFunction: Diabetes pedigree function (a function which scores likelihood of diabetes based on family history)
 # Age: Age (years)
 # Outcome: Class variable (0 if non-diabetic, 1 if diabetic) "Dependent Variable"
