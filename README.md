@@ -1,7 +1,7 @@
 ## Diabetes Feature Engineering [EDA] & Prediction 🫀
 
 <p align="center">
-  <img src="https://www.aerztliches-journal.de/fileadmin/user_upload/news/medizin/2022/07_22/Diabetes__COLOURBOX_Proxima_Studio_50883519.jpg" alt="Diabetes"/>
+  <img src="https://gogomall.co.id/blog/wp-content/uploads/2021/09/ciri-ciri-diabetes.jpg" alt="Diabetes"/> 
 </p>
 
 ---
