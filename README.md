@@ -1,7 +1,7 @@
 ## Diabetes Feature Engineering [EDA] & Prediction 🫀
 
 <p align="center">
-  <img src="https://gogomall.co.id/blog/wp-content/uploads/2021/09/ciri-ciri-diabetes.jpg" alt="Diabetes"/> 
+  <img src="https://editor.analyticsvidhya.com/uploads/30738medtec-futuristic-650.jpg" alt="Diabetes"/> 
 </p>
 
 ---
